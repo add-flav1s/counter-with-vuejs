@@ -1,5 +1,7 @@
 # counter-vue
 
+<img src="src/assets/project.png" alt="Imagem do counter"/>
+
 ## Stack usada
 
 - VueJS 3x
