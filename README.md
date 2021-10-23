@@ -1,24 +1,27 @@
 # counter-vue
 
-## Project setup
-```
-npm install
-```
+## Stack usada
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- VueJS 3x
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Recursos utilizados
 
-### Lints and fixes files
-```
-npm run lint
-```
+https://cli.vuejs.org/guide/installation.html
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Executando a aplicação
+
+### Clone o repositório
+
+\$ git clone https://github.com/add-flav1s/counter-with-vuejs.git
+
+### Entre no repositório
+
+\$ cd counter-with-vuejs
+
+### Instale as dependências
+
+\$ npm install
+
+### Execute a aplicação
+
+\$ npm run serve

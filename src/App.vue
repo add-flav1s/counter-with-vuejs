@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <img alt="Vue logo" src="./assets/logo.jpg" />
+        <img alt="numbers binary" src="./assets/logo.jpg" />
         <Counter />
     </div>
 </template>
@@ -14,7 +14,6 @@ export default {
         Counter,
     },
 };
-Counter;
 </script>
 
 <style>
