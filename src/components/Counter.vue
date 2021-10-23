@@ -14,6 +14,14 @@ export default {
             counter: 0,
         };
     },
+    methods: {
+        incrementCounter() {
+            this.counter++;
+        },
+        decrementCounter() {
+            this.counter--;
+        },
+    },
 };
 </script>
 
